@@ -1,0 +1,22 @@
+{
+  "name": "customizer-0",
+  "owner": {
+    "name": "0thdimension"
+  },
+  "metadata": {
+    "description": "Customizer 0, a control panel mod for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "customizer-0",
+      "source": "./",
+      "description": "A control panel for Claude Code: creativity, clarifying questions, coding expertise, and finish checks, in a bar above the chat box.",
+      "version": "2.0.0",
+      "author": {
+        "name": "0thdimension"
+      },
+      "category": "productivity",
+      "tags": ["mod", "controls", "settings", "control-panel"]
+    }
+  ]
+}
